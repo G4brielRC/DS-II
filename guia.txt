@@ -1,0 +1,21 @@
+—-------------------------------------------
+Subir pro GIT HUB pelo GIT
+—-------------------------------------------
+git config –global user.name “Nome”
+
+git config –global user.email “Email”
+
+*Clonar: git clone “link do Repo”
+
+*Após modificações:
+
+git status (verificar)
+
+git add .
+
+*Subir:
+
+git commit -m “comentário do commit”
+
+git push 
+
